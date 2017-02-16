@@ -16,4 +16,3 @@ inputs:
       default: latest
     root_password:
       description: password for mysql root user
-outputs:
