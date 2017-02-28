@@ -18,6 +18,5 @@ labels:
     tags: "[\"database\"]"
 assets:
   icon: "/mysql.png"
-  overview: "/README.md"
   detail: "/README.md"
     
