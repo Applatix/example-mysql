@@ -9,7 +9,7 @@ actions:
     parameters:
             repo: "https://github.com/Applatix/appstore.git"
             commit: "e29489171f7ab81b7a1140cab3460d644f746fb1"
-            script: "/mysql/script/showdb.sql"
+            script: "/src/showdb.sql"
 categories: ["database", "promoted"]
 publish:
   branches:
