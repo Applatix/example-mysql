@@ -1,6 +1,6 @@
 ---
 type: project
-name: MYSQL
+name: mysql
 description: mysql project
 actions:
   -
