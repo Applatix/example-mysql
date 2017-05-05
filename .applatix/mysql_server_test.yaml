@@ -1,6 +1,5 @@
 ---
-type: service_template
-subtype: container
+type: container
 name: mysql_client
 description: mysql client
 container:
@@ -29,8 +28,7 @@ inputs:
       description: script to execute
 
 ---
-type: service_template
-subtype: workflow
+type: workflow
 name: Mysql Server test
 description: This is the workflow for Mysql server test
 inputs:
